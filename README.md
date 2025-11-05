@@ -1,5 +1,6 @@
 ## hi, im leaᥫ᭡
-જ⁀➴ computer science student in ireland <br/>
+જ⁀➴ 
+computer science student in ireland <br/>
   focused on ai and data science <br/> 
 
 
