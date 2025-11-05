@@ -1,7 +1,7 @@
 ## hi, im leaᥫ᭡
-જ⁀➴ 
-computer science student in ireland <br/>
-  focused on ai and data science <br/> 
+
+➤ computer science student in ireland <br/>
+ꫂ❁ focused on ai and data science <br/> 
 
 
 ## ⌗ GitHub Stats:
