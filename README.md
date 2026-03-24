@@ -2,4 +2,5 @@
 ➤ focused on ai and data science<br/> 
 
 ## ⌗ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bytelea&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![bytelea's Stats](https://github-readme-stats.vercel.app/api?username=bytelea&theme=omni&show_icons=true&hide_border=false&count_private=true) <br/>
+![bytelea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bytelea&theme=omni&show_icons=true&hide_border=false&layout=compact)
