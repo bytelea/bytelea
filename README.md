@@ -6,6 +6,6 @@
   <a href="https://github.com/bytelea"><img src="assets/socials/github.svg" width="29%" alt="GitHub"></a>
 </p>
 
-## ⌗ GitHub Stats:
-![bytelea's Stats](https://github-readme-stats.vercel.app/api?username=bytelea&theme=omni&show_icons=true&hide_border=false&count_private=true) <br/>
+<img src="assets/statistics/activity.svg" width="100%" alt="GitHub activity snapshot: 307 commits last year, 18 public repositories, 0 stars and 3 pull requests. Contribution streaks pending sync.">
+
 ![bytelea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bytelea&theme=omni&show_icons=true&hide_border=false&layout=compact)
