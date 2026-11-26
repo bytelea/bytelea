@@ -17,3 +17,5 @@
 <img src="assets/charts/monthly.svg" width="100%" alt="Monthly contribution totals">
 
 <img src="assets/charts/languages.svg" width="100%" alt="Programming language distribution by code bytes">
+
+<img src="assets/terminal/about.svg" width="100%" alt="About Lea: Data Science and AI student in Ireland, TU Dublin class of 2028, incoming SAP intern, Notion Campus Leader, exploring bioinformatics. Always curious. Always learning.">
