@@ -22,4 +22,4 @@
 
 <img src="assets/achievements/milestones.svg" width="100%" alt="Achievements and milestones: AI.WOMEN Hackathon second place, Huawei TechArena finalist, Google Gemini Prompting Championship Ireland finalist, NASA Space Apps Campus Ambassador.">
 
-<img src="assets/community/involvement.svg" width="100%" alt="Community and involvement: incoming SAP iXp Technical Support Engineer Intern, Notion Campus Leader, Dell STEM Aspire mentee, Hackathon Hub Ambassador, Rewriting the Code member.">
+<img src="assets/community/beyond-the-code.svg" width="100%" alt="Community and involvement: incoming SAP iXp Technical Support Engineer Intern, Notion Campus Leader, Dell STEM Aspire mentee, Hackathon Hub Ambassador, Rewriting the Code member.">
