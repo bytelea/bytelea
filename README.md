@@ -10,7 +10,7 @@
 
 
 
-<img src="assets/charts/calendar-botanical-v2.svg" width="100%" alt="Daily contribution calendar">
+<img src="assets/charts/calendar-botanical-v3.svg" width="100%" alt="Daily contribution calendar">
 
 <img src="assets/charts/recent-botanical-v2.svg" width="100%" alt="Last 30 days of contributions">
 
@@ -21,3 +21,5 @@
 <img src="assets/terminal/about-botanical-v2.svg" width="100%" alt="About Lea: Data Science and AI student in Ireland, TU Dublin class of 2028, incoming SAP intern, Notion Campus Leader, exploring bioinformatics. Always curious. Always learning.">
 
 <img src="assets/achievements/milestones.svg" width="100%" alt="Achievements and milestones: AI.WOMEN Hackathon second place, Huawei TechArena finalist, Google Gemini Prompting Championship Ireland finalist, NASA Space Apps Campus Ambassador.">
+
+<img src="assets/community/involvement.svg" width="100%" alt="Community and involvement: incoming SAP iXp Technical Support Engineer Intern, Notion Campus Leader, Dell STEM Aspire mentee, Hackathon Hub Ambassador, Rewriting the Code member.">
