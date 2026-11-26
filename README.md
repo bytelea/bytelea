@@ -19,3 +19,14 @@
 <img src="assets/charts/languages-botanical-v2.svg" width="100%" alt="Programming language distribution by code bytes">
 
 <img src="assets/terminal/about-botanical-v2.svg" width="100%" alt="About Lea: Data Science and AI student in Ireland, TU Dublin class of 2028, incoming SAP intern, Notion Campus Leader, exploring bioinformatics. Always curious. Always learning.">
+
+## Featured projects
+
+<img src="assets/projects/house.svg" width="100%" alt="PropertyScan: AI-powered property analysis">
+
+<img src="assets/projects/chart.svg" width="100%" alt="Huawei TechArena: Click prediction and recommendation systems">
+
+<a href="https://github.com/Nadaaa72/The-A-Team"><img src="assets/projects/cross.svg" width="100%" alt="Emergency Response AI: Intelligent dispatch and routing"></a>
+
+<img src="assets/projects/flower.svg" width="100%" alt="Florist Studio: Digital floristry and creative tools">
+
