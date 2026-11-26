@@ -22,11 +22,11 @@
 
 ## Featured projects
 
-<img src="assets/projects/house.svg" width="100%" alt="PropertyScan: AI-powered property analysis">
-
-<img src="assets/projects/chart.svg" width="100%" alt="Huawei TechArena: Click prediction and recommendation systems">
-
-<a href="https://github.com/Nadaaa72/The-A-Team"><img src="assets/projects/cross.svg" width="100%" alt="Emergency Response AI: Intelligent dispatch and routing"></a>
-
-<img src="assets/projects/flower.svg" width="100%" alt="Florist Studio: Digital floristry and creative tools">
-
+<p align="center">
+  <img src="assets/projects/house.svg" width="48%" alt="PropertyScan: AI-powered property analysis">
+  <img src="assets/projects/chart.svg" width="48%" alt="Huawei TechArena: Click prediction and recommendation systems">
+</p>
+<p align="center">
+  <a href="https://github.com/Nadaaa72/The-A-Team"><img src="assets/projects/cross.svg" width="48%" alt="Emergency Response AI: Intelligent dispatch and routing"></a>
+  <img src="assets/projects/flower.svg" width="48%" alt="Florist Studio: Digital floristry and creative tools">
+</p>
