@@ -6,6 +6,14 @@
   <a href="https://github.com/bytelea"><img src="assets/socials/github.svg" width="29%" alt="GitHub"></a>
 </p>
 
-<img src="assets/statistics/activity.svg" width="100%" alt="GitHub activity snapshot: 307 commits last year, 18 public repositories, 0 stars and 3 pull requests. Contribution streaks pending sync.">
+<img src="assets/statistics/activity.svg" width="100%" alt="GitHub contribution totals, streaks, public repositories, stars and pull requests">
 
-<img src="assets/charts/languages.svg" width="100%" alt="Previous language widget snapshot: CSS 30.96%, TypeScript 27.91%, JavaScript 20.01%, HTML 7.58%, Python 7.36%, Java 6.18%.">
+
+
+<img src="assets/charts/calendar.svg" width="100%" alt="Daily contribution calendar">
+
+<img src="assets/charts/recent.svg" width="100%" alt="Last 30 days of contributions">
+
+<img src="assets/charts/monthly.svg" width="100%" alt="Monthly contribution totals">
+
+<img src="assets/charts/languages.svg" width="100%" alt="Programming language distribution by code bytes">
