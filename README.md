@@ -8,4 +8,4 @@
 
 <img src="assets/statistics/activity.svg" width="100%" alt="GitHub activity snapshot: 307 commits last year, 18 public repositories, 0 stars and 3 pull requests. Contribution streaks pending sync.">
 
-![bytelea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bytelea&theme=omni&show_icons=true&hide_border=false&layout=compact)
+<img src="assets/charts/languages.svg" width="100%" alt="Previous language widget snapshot: CSS 30.96%, TypeScript 27.91%, JavaScript 20.01%, HTML 7.58%, Python 7.36%, Java 6.18%.">
