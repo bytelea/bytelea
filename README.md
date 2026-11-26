@@ -25,8 +25,9 @@
 <p align="center">
   <img src="assets/projects/house-balanced.svg" width="100%" alt="PropertyScan: AI-powered property analysis">
   <img src="assets/projects/chart-balanced.svg" width="100%" alt="Huawei TechArena: Click prediction and recommendation systems">
-</p>
-<p align="center">
+
   <a href="https://github.com/Nadaaa72/The-A-Team"><img src="assets/projects/cross-balanced.svg" width="100%" alt="Emergency Response AI: Intelligent dispatch and routing"></a>
   <img src="assets/projects/flower-balanced.svg" width="100%" alt="Florist Studio: Digital floristry and creative tools">
 </p>
+
+<img src="assets/achievements/milestones.svg" width="100%" alt="Achievements and milestones: AI.WOMEN Hackathon second place, Huawei TechArena finalist, Google Gemini Prompting Championship Ireland finalist, NASA Space Apps Campus Ambassador.">
